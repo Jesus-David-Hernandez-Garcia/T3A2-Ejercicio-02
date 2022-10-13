@@ -24,3 +24,7 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
  +--------------------------------------------------------------+
  ~~~
  
+## Etapa 3. Diseño de la solucion
+Diagrama de la clase
+
+![](https://github.com/Jesus-David-Hernandez-Garcia/T3A2-Ejercicio-02/blob/main/T3A2.jpeg)
