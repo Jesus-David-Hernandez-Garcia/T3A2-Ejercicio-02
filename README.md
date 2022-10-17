@@ -30,4 +30,4 @@ Diagrama de la clase
 ![](https://github.com/Jesus-David-Hernandez-Garcia/T3A2-Ejercicio-02/blob/main/T3A2.jpeg)
 
 ## Etapa 4. Desarrollo de la solucion
-
+(https://github.com/Jesus-David-Hernandez-Garcia/T3A2-Ejercicio-02/blob/main/T3A2.zip)
